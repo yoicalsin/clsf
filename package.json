@@ -1,0 +1,29 @@
+{
+    "name": "classnames-fast",
+    "version": "1.0.0",
+    "description": "A function that merges given class names, no matter their format. Filters out invalid class names as well.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yoicalsin/classnames-fast.git"
+    },
+    "keywords": [
+        "classnames",
+        "classnames-fast",
+        "cls",
+        "clx",
+        "clsf"
+    ],
+    "author": "Yoni Calsin <helloyonicb@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yoicalsin/classnames-fast/issues"
+    },
+    "homepage": "https://github.com/yoicalsin/classnames-fast#readme",
+    "devDependencies": {
+        "rimraf": "^3.0.2"
+    }
+}
