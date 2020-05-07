@@ -4,7 +4,7 @@
    "description": "A function that merges given class names, no matter their format. Filters out invalid class names as well.",
    "main": "index.js",
    "scripts": {
-      "build": "tsc",
+      "build": "yarn prebuild && tsc",
       "start": "node index.js",
       "dev": "yarn prebuild && tsc -w",
       "dev:start": "nodemon index.js",
