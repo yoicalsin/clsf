@@ -1,6 +1,6 @@
 {
    "name": "clsf",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "A function that merges given class names, no matter their format. Filters out invalid class names as well.",
    "main": "index.js",
    "type": "index.d.ts",
