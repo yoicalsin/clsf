@@ -4,7 +4,7 @@ import { isString, isArray } from 'is-all-utils';
  * @description A function that merges given class names, no matter their format. Filters out invalid class names as well.
  * @param names any[]
  */
-export const classnamesFast = (...names: any[]) => {
+export const clsf = (...names: any[]): string => {
    return names
       .reduce(
          (classname, arg) =>
@@ -15,6 +15,4 @@ export const classnamesFast = (...names: any[]) => {
       .join(' ');
 };
 
-export { classnamesFast as clsf };
-
-export default classnamesFast;
+export default clsf;
