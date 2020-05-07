@@ -1,5 +1,5 @@
 {
-   "name": "classnames-fast",
+   "name": "clsf",
    "version": "1.0.0",
    "description": "A function that merges given class names, no matter their format. Filters out invalid class names as well.",
    "main": "index.js",
@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/yoicalsin/classnames-fast.git"
+      "url": "git+https://github.com/yoicalsin/clsf.git"
    },
    "keywords": [
       "classnames",
@@ -25,9 +25,9 @@
    "author": "Yoni Calsin <helloyonicb@gmail.com>",
    "license": "MIT",
    "bugs": {
-      "url": "https://github.com/yoicalsin/classnames-fast/issues"
+      "url": "https://github.com/yoicalsin/clsf/issues"
    },
-   "homepage": "https://github.com/yoicalsin/classnames-fast#readme",
+   "homepage": "https://github.com/yoicalsin/clsf#readme",
    "devDependencies": {
       "nodemon": "^2.0.3",
       "prettier-plugin-packagejson": "^2.2.3",
